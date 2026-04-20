@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes
 - Silvio Eduardo Cezarino de Castlhos — 072200460
-- Nome Completo — Matrícula
+- Murilo da Silva Noguêz - 782410056
 - Nome Completo — Matrícula
 - Nome Completo — Matrícula
 
