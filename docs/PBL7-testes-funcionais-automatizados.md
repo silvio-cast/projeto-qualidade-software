@@ -1,4 +1,4 @@
-# Aula 10 – Testes Funcionais Automatizados
+# PBL7 – Testes Funcionais Automatizados
 
 ## 👥 Integrantes
 
